@@ -24,9 +24,10 @@ Digital geographies
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+<!--  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
 
 Pedagogical Training
 ======
@@ -39,16 +40,18 @@ Research Experience
 
 Publications
 ======
+<!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 Conference Activity
 ======
+<!--
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
+-->
 Academic Service
 ======
 

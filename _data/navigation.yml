@@ -4,9 +4,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Data Visualization Portfolio"
     url: /portfolio/
 
