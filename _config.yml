@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Theodore Davenport"
   avatar           : "teddy.jpg"
-  bio              :
+  bio              : "Trans geographies | Care work | Feminist methodologies | Digital spaces"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "Department of Geography, University of Washington"
   pubmed           :
   googlescholar    :
   email            : "tsdav (at) uw.edu"
