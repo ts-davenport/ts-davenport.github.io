@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-Ph.D in Geography, University of Washington, 2025 (expected)
-M.A. in Geography, University of Washington, 2020
-B.A. in Geography, University of Georgia, 2017
+Ph.D in Geography, University of Washington, 2025 (expected)  
+M.A. in Geography, University of Washington, 2020  
+B.A. in Geography, University of Georgia, 2017  
 
 Research Interests
 ======
-Queer and trans geographies | Care work | Feminist methodologies | Digital geographies  
+Queer and trans geographies | Care work | Feminist methodologies | Digital geographies
 
 Teaching
 ======
