@@ -17,10 +17,7 @@ B.A. in Geography, University of Georgia, 2017
 
 Research Interests
 ======
-Queer and trans geographies
-Care work
-Feminist methodologies
-Digital geographies
+Queer and trans geographies | Care work | Feminist methodologies | Digital geographies  
 
 Teaching
 ======
