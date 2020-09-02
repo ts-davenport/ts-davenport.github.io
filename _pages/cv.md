@@ -37,7 +37,6 @@ Summer 2020&emsp; Teaching Online 101. University of Washington Bothell
 Jan. 2020&emsp; UndocuAlly Training. Leadership without Borders, University of Washington.
 
 ## Research Experience
-
 Sept. 2019–⁠present&emsp; *Research Assistant*. Dr. Kim England, University of Washington
 * Create digital mapping exhibit for Disorderly Women in Labor Project using Omeka. <!-- link to this in portfolio someday -->
 * Supervise undergraduate in creating digital maps of labor policies in the United States using ESRI Story Map platform.
