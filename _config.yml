@@ -88,7 +88,7 @@ author:
                     Department of Geography"
   pubmed           :
   googlescholar    :
-  email            : "tsdav (at) uw.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ts-davenport"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "0000-0002-0681-8204"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "vb_macaron"
+  twitter          :
   vine             :
   weibo            :
   xing             :
