@@ -51,7 +51,6 @@ Sept. 2015–July 2017&emsp;*Undergraduate Research Assistant*. Community Mappin
 * Developed housing quality assessment in OpenDataKit that dynamically pulled parcel information from tabular data for municipal governments enrolled in the Georgia Initiative for Community Housing.
 * Developed open-source GIS visualization tools of housing assessments using R and LeafletJS.
 
-
 Jan. 2015–May 2016&emsp; _Undergraduate Research Assistant_. Coweeta Listening Project, University of Georgia
 * Conducted research on an environmental movement in Southern Appalachia, North Carolina, by evaluating local newspaper letters to the editor, local government resolutions, and public hearing outcomes.
 * Wrote internal literature reviews on Appalachian cultural geographies, feminist political ecology, and the role of neoliberalism in shaping modern democracy.
@@ -64,6 +63,8 @@ ed. *Gender Justice and the Law: Theoretical Practices of Intersectional Identit
 ## Conference Activity
 
 ### Oral Presentations
+April 2020&emsp; *Who cares? Trans experiences within and beyond hegemonic spaces of care*. Association of American Geographers Annual Meeting. Denver, CO. *Cancelled due to COVID-19*
+
 June 1, 2019&emsp; *Vegan Bros: Hybrid Masculinities and Vegan Activism in Digital Spaces*. Annual Meeting, Association of Washington Geographers. Ellensburg, WA.
 
 May 14, 2019&emsp; *Tech Talk: Qualitative GIS and ESRI Story Maps*. University of Washington GIS Symposium, UW Libraries. Seattle, WA
@@ -77,19 +78,19 @@ April 14, 2017&emsp; *‘A threat to the bars but a gold mine to nonprofits’: 
 April 4, 2016&emsp; *Fracking Governance and Resistance in Western North Carolina Center for Undergraduate Research Opportunities Symposium (CURO) at University of Georgia Honors College*. Athens, GA
 
 ### Poster Presentations
-April 15, 2016&emsp; *Fracking Governance and Resistance in Western North Carolina*. Undergraduate Geography Conference, University of Georgia. Athens, GA.  
+April 15, 2016&emsp; *Fracking Governance and Resistance in Western North Carolina*. Undergraduate Geography Conference, University of Georgia. Athens, GA.
+
 Mar. 31, 2016&emsp; *Fracking Governance and Resistance in Western North Carolina*. American Association of Geographers Annual Meeting. San Francisco, CA  
+
 April 13, 2015&emsp; *Visibility in Food Chains: The Geography of Nutella.* Undergraduate Geography Conference, University of Georgia. Athens, GA.
 
 ### Sessions Organized
 April 2020&emsp; *Trans and Gender Variant Geographies* (Paper Session). Association of American Geographers Annual Meeting. Denver, CO. *Cancelled due to COVID-19*
 
-
 ## Academic Service
 Sept. 2020–present&emsp; Colloquium Committee, Department of Geography, University of Washington  
 Sept. 2018–June 2020&emsp; Diversity Committee, Department of Geography, University of Washington  
 Jan. 2017–May 2017&emsp; Diversity Committee, Department of Geography, University of Georgia
-
 
 ## Skills
 * *Proprietary GIS*: ArcGIS Desktop 10.x (ArcMap, ArcGIS Online, ArcServer, ArcCatalog), ArcGIS Pro, Geocortex, CARTO, Mapbox
