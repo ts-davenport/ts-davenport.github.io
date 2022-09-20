@@ -6,12 +6,12 @@ main:
 
 #  - title: "Data Visualization Portfolio"
 #    url: /portfolio/
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
     
-#  - title: "Writing"
-#    url: /writing/
+  - title: "Writing"
+    url: /writing/
+    
+  - title: "Speaking Engagements"
+    url: /outreach/
     
   - title: "Contact"
     url: /contact/
