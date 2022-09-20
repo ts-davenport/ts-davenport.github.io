@@ -11,6 +11,7 @@ Please feel free to [reach out to me](/contact) if you need assistance accessing
 
 # Publications
 ## 2020. Davenport, Theodore. “Becoming Theodore: Spatial Legal Consciousness and Transgender Name Changes” in E. Wood, ed. _Gender Justice and the Law: Theoretical Practices of Intersectional Identity._ Lanham, MD: Fairleigh Dickinson University Press.
+test text
 
 # Conference Papers
 ## 2022. Towards a critical trans politics of code/space. _American Association of Geographers (AAG)_, Annual Meeting. Virtual.
