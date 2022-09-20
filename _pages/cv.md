@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV as a PDF [here](/files_Davenport_Website_CV_09-2022.pdf).
+You can download my full CV as a PDF [here](/files/Davenport_Website_CV_09-2022.pdf).

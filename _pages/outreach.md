@@ -4,7 +4,6 @@ permalink: /outreach/
 excerpt: "Outreach"
 author_profile: true
 redirect_from:
-  - /outreach/
   - /outreach.html
 ---
 ## Workshops
