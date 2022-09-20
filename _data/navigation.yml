@@ -4,11 +4,11 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "Data Visualization Portfolio"
-#    url: /portfolio/
-    
   - title: "Writing"
     url: /writing/
+
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Speaking Engagements"
     url: /outreach/
