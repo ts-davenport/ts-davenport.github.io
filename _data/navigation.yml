@@ -10,5 +10,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
+#  - title: "Writing"
+#    url: /writing/
+    
   - title: "Contact"
     url: /contact/
