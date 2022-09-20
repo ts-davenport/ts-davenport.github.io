@@ -4,11 +4,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Data Visualization Portfolio"
-    url: /portfolio/
+#  - title: "Data Visualization Portfolio"
+#    url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "Contact"
     url: /contact/
