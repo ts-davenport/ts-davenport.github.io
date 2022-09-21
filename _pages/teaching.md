@@ -8,17 +8,23 @@ redirect_from:
 ---
 ## Teaching Appointments
 ### Teaching Associate (University of Washington)
- * 2021, Summer. _GEOG 258: Digital Geographies._
- * 2021, Spring. _GEOG 465: GIS Database and Programming._
- * 2021, Winter. _GEOG 482: GIS Data Management._
- * 2020, Autumn. _GEOG 360: GIS and Mapping._
- * 2019, Winter. _GEOG 461: Urban Geographic Information Science._
- * 2018, Autumn. _GEOG 123: Introduction to Globalization._
+<ul>
+  <li>2021, Summer. <i>GEOG 258: Digital Geographies.</i></li>
+  <li>2021, Spring. <i>GEOG 465: GIS Database and Programming.</i></li>
+  <li>2021, Winter. <i>GEOG 482: GIS Data Management.</i></li>
+  <li>2020, Autumn. <i>GEOG 360: GIS and Mapping.</i></li>
+  <li>2019, Winter. <i>GEOG 461: Urban Geographic Information Science.</i></li>
+  <li>2018, Autumn. <i>GEOG 123: Introduction to Globalization.</i></li>
+</ul>
 
-### Reader-Grader (University of Washington))
- * 2022, Winter. _GEOG 302: Geographies of the Pacific Northwest._
- * 2021, Winter. _GEOG 482: GIS Data Management._
+### Reader-Grader (University of Washington)
+<ul>
+ <li>2022, Winter. <i>GEOG 302: Geographies of the Pacific Northwest.</i></li>
+ <li>2021, Winter. <i>GEOG 482: GIS Data Management.</i></li>
+</ul>
 
 ## Pedagogy Training
- * 2020. "Teaching Online 101." _Information Technologies, University of Washington Bothell._
- * 2020.  "UndocuAlly Training." _Leadership without Borders, University of Washington._
+<ul>
+  <li>2020. "Teaching Online 101." <i>Information Technologies, University of Washington Bothell.</i></li>
+ <li>2020.  "UndocuAlly Training." <i>Leadership without Borders, University of Washington.</i></li>
+</ul>
