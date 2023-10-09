@@ -13,6 +13,4 @@ Email: tsdav AT uw DOT edu
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=wlBQ19AAAAAJ&hl=en)
 
-[Twitter Profile](https://twitter.com/vb_macaron)
-
-<a rel="me" href="https://mastodon.lol/@tsdav">Mastodon</a>
+<a rel="me" href="https://sciences.social/@tsdav">Mastodon</a>
