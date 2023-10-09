@@ -9,7 +9,7 @@ redirect_from:
 ## Teaching Appointments
 
 ### Predoctoral Instructor (University of Washington)
-* 2023, Summer. <i>GEOG 445: Geographies of Housing.</i> Syllabus available to download [here](\files\GEOG_445_Syllabus_2023_Summer-B.pdf)
+* 2023, Summer. <i>GEOG 445: Geographies of Housing.</i> I developed this syllabus, which is available to download [here](\files\GEOG_445_Syllabus_2023_Summer-B.pdf).
 
 ### Teaching Associate (University of Washington)
 * 2021, Summer. <i>GEOG 258: Digital Geographies.</i>
