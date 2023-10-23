@@ -18,8 +18,10 @@ Legal name changes are a powerful way that transgender people render their gende
 
 
 ## Conference Papers
-### 2022. Towards a critical trans politics of code/space. _American Association of Geographers (AAG)_, Annual Meeting. Virtual.
-### 2021. Normativity and contradictions in trans care ethics. _Transgender Professional Association for Transgender Health (TPATH) Conference: Converging Crises._ Virtual.
-### 2021. Historical geographies of trans care practices in the United States. _American Association of Geographers (AAG), Annual Meeting._ Virtual. *Rescheduled from 2020
-### 2019. Vegan Bros: Hybrid Masculinities and Vegan Activism in Digital Spaces. _Association of Washington Geographers: Annual Meeting._ Ellensburg, WA.
-### 2019. Reclaiming social contagion: Historical geographies of trans care networks. _Harry Bridges Center for Labor Studies and Department of Geography, University of Washington: Taking Care Conference._ Seattle, WA.
+### 2023. “Glitching the Digital Transgender Virus through Care.” Digital Geographic Movements and Methods Workshop, University of Calgary. Virtual.
+### 2023. “Agenda for Spatial Trans Politics in Geography.” American Association of Geographers (AAG), Annual Meeting. Virtual.
+### 2022. "Towards a critical trans politics of code/space." _American Association of Geographers (AAG)_, Annual Meeting. Virtual.
+### 2021. "Normativity and contradictions in trans care ethics." _Transgender Professional Association for Transgender Health (TPATH) Conference: Converging Crises._ Virtual.
+### 2021. "Historical geographies of trans care practices in the United States." _American Association of Geographers (AAG), Annual Meeting._ Virtual. *Rescheduled from 2020
+### 2019. "Vegan Bros: Hybrid Masculinities and Vegan Activism in Digital Spaces." _Association of Washington Geographers: Annual Meeting._ Ellensburg, WA.
+### 2019. "Reclaiming social contagion: Historical geographies of trans care networks." _Harry Bridges Center for Labor Studies and Department of Geography, University of Washington: Taking Care Conference._ Seattle, WA.
