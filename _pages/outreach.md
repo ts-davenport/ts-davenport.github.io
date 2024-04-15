@@ -6,6 +6,17 @@ author_profile: true
 redirect_from:
   - /outreach.html
 ---
+## Selected Conference Presentations
+
+### 2023. “Glitching the Digital Transgender Virus through Care.” _Royal Geographical Society (with the Institute of British Geographers) Annual Conference._
+Over the past decade, anti-transgender movements have claimed that transgender identity has spread digitally through “trans social contagion,” similar to a computer virus. I theorize digital trans place-making through glitch politics, highlighting how such spaces thrive despite being classified as viruses, errors, and ghosts in the cissexist machine.
+
+### 2022. “Towards a critical trans politics of code/space.” _American Association of Geographers (AAG), Annual Meeting._
+Surveillance systems rely on stable identifiers to function, but transition often indicates changes such as names and gender markers. This has significant economic ramifications for trans experiences, as being forcibly outed as trans through credit reports, background checks, or even social media platforms affects access to employment, housing, financial means, and many other resources. This paper explores these consequences while arguing _against_ expanding surveillance systems under the guise of trans inclusion.
+
+### 2021. “Normativity and contradictions in trans care ethics.” _Transgender Professional Association for Transgender Health (TPATH) Conference: Converging Crises._
+This paper highlights highlight two vignettes from my master's thesis that reveal productive tensions surrounding trans experiences of community care. You can view this presentation [online](https://youtu.be/OM4hS-Iask8?si=ABrKj8jNgl-uc0FX&t=981).
+
 ## Workshops
 
 My workshops aim to teach participants how to create effective, beautiful qualitative data visualizations.
@@ -21,6 +32,6 @@ I created this workshop in order to guide conference participants in using [Time
 ## Guest Lectures
 
 Please [reach out](/contact) if you are interested in having me speak to your class on my areas of expertise, some of which include applied transgender studies, geography and gender, data and power, feminist political geography, or qualitative methods.
-
-### 2020, Summer. GEOG 258: Digital Geographies. “The Role of the Digital in Trans Sex Work.”
-### 2020, Spring. GEOG 316: Explanation and Understanding in Geography. “Literature Reviews."
+* 2024, Spring. “Disability, Geography, and Immigration.” Prepared for: University of Missouri, GEOG 4450/7450: Health, Healthcare Access, and Geography. Instructor: Dr. Aída Guhlincozzi.
+* 2020, Summer. “The Role of the Digital in Trans Sex Work.” Prepared for: University of Washington, GEOG 258: Digital Geographies. Instructor: Isaac Rivera.
+* 2020, Spring. “Literature Reviews.” Prepared for: University of Washington, GEOG 316: Explanation and Understanding in Geography. Instructor: Julian Barr.
