@@ -21,7 +21,6 @@ redirect_from:
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
-
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
@@ -142,7 +141,6 @@ This is an example of a [link](http://github.com "Github").
 The abbreviation CSS stands for "Cascading Style Sheets".
 
 *[CSS]: Cascading Style Sheets
-
 ### Cite Tag
 
 "Code is poetry." ---<cite>Automattic</cite>
