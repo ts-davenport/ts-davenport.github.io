@@ -31,7 +31,7 @@ I created this workshop in order to guide conference participants in using [Time
 
 ## Guest Lectures
 
-Please [reach out](/contact) if you are interested in having me speak to your class on my areas of expertise, some of which include applied transgender studies, geography and gender, data and power, feminist political geography, or qualitative methods.
-* 2024, Spring. “Disability, Geography, and Immigration.” Prepared for: University of Missouri, GEOG 4450/7450: Health, Healthcare Access, and Geography. Instructor: Dr. Aída Guhlincozzi.
+Please [reach out](/contact) if you are interested in having me speak to your class on my areas of expertise, some of which include applied transgender studies, geography and gender, data and power, feminist political geography, or qualitative methods. 
+* 2024, Spring. “Disability, Geography, and Immigration.” Prepared for: University of Missouri, GEOG 4450/7450: Health, Healthcare Access, and Geography. Instructor: Dr. Aída Guhlincozzi. [Video available here.](https://youtu.be/Zkk_ZAmiDx0)
 * 2020, Summer. “The Role of the Digital in Trans Sex Work.” Prepared for: University of Washington, GEOG 258: Digital Geographies. Instructor: Isaac Rivera.
 * 2020, Spring. “Literature Reviews.” Prepared for: University of Washington, GEOG 316: Explanation and Understanding in Geography. Instructor: Julian Barr.
