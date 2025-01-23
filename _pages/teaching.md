@@ -6,10 +6,13 @@ author_profile: true
 redirect_from:
   - /teaching.html
 ---
+## Teaching Philosophy
+As a feminist and anti-racist educator, I aim to help students develop critical thinking skills around gender and related social identities (including race, sexuality, class, ability, and nationality), interrogate systems of power and oppression, and develop the theoretical and methodological tools to build a more just world.
+
 ## Teaching Appointments
 
 ### Predoctoral Instructor (University of Washington)
-* 2023, Summer. <i>GEOG 445: Geographies of Housing.</i> I developed this syllabus, which is available to download [here](\files\GEOG_445_Syllabus_2023_Summer-B.pdf).
+* 2023 and 2024, Summer. <i>GEOG 445: Geographies of Housing.</i> This course focuses on the racial, colonial, and patriarchal roots of housing inequality in the US, drawing from multimedia lectures and hands-on labs. I developed this syllabus, which is available to download [here](\files\GEOG_445_Syllabus_2023_Summer-B.pdf). You can also find an example lab for download [here](\files\Lab3.pdf).
 
 ### Teaching Associate (University of Washington)
 * 2021, Summer. <i>GEOG 258: Digital Geographies.</i>
