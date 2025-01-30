@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV as a PDF [here](\files\Davenport_CV.pdf).
+You can download my full CV as a PDF [here](\files\Davenport_Public_CV.pdf).
 
 You can also interact with an abbreviated visualization of my CV in the below widget (best viewed on desktop).
 
