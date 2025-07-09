@@ -21,3 +21,4 @@ author_profile: true
 * [ORCid Profile](https://orcid.org/0000-0002-0681-8204)
 * [University of Washington Department of Geography Profile](https://geography.washington.edu/people/theodore-davenport)
 * [Google Scholar Profile](https://scholar.google.com/citations?user=wlBQ19AAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/theodoresdavenport/)
