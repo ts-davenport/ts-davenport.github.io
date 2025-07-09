@@ -4,14 +4,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Writing"
-    url: /writing/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
     
-  - title: "Speaking Engagements"
-    url: /outreach/
+  - title: "Talks"
+    url: /talks/
     
   - title: "Contact"
     url: /contact/

@@ -8,15 +8,15 @@ redirect_from:
   - /writing.html
   - /publications.html
 ---
-# Academic Publications
+## Academic Publications
 
 My work can also be found on [Google Scholar](https://scholar.google.com/citations?user=wlBQ19AAAAAJ&hl=en). Please feel free to [reach out to me](/contact) if you need assistance accessing my work.
 
-## Ph.D. Dissertation: Theorizing the Political Potential of Care through Digital Spaces of Trans Belonging
+### Ph.D. Dissertation: Theorizing the Political Potential of Care through Digital Spaces of Trans Belonging
 
 My mixed-methods dissertation on historical and contemporary care practices in online trans spaces has its [own website](https://sites.google.com/view/transdigitalstudy/about-the-dissertation)! Feel free to view if you are interested in learning more about my project.
 
-## Uncomfortable Trans Care Politics: Normativity, Institutional Abandonment, and the Obligation to Care in New York City
+### Uncomfortable Trans Care Politics: Normativity, Institutional Abandonment, and the Obligation to Care in New York City
 
 Published in _Gender, Place & Culture_, 2025.
 
@@ -24,9 +24,9 @@ This paper draws from work across care geographies and trans studies to challeng
 
 Recommended Citation: Davenport, Theodore. 2025. "Uncomfortable Trans Care Politics: Normativity, Institutional Abandonment, and the Obligation to Care in New York City." _Gender, Place & Culture_. https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578.
 
-**[Now Available Open-Access!]**(https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578)
+[**Now Available Open-Access!**](https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578)
 
-## Becoming Theodore: Spatial Legal Consciousness and Transgender Name Changes
+### Becoming Theodore: Spatial Legal Consciousness and Transgender Name Changes
 
 Published in _Gender Justice and the Law: Theoretical Practices of Intersectional Identity_, 2020.
 
@@ -34,10 +34,10 @@ Legal name changes are a powerful way that transgender people render their gende
 
 Recommended Citation: Davenport, Theodore. 2020. “Becoming Theodore: Spatial Legal Consciousness and Transgender Name Changes” in E. Wood, ed. _Gender Justice and the Law: Theoretical Practices of Intersectional Identity._ Lanham, MD: Fairleigh Dickinson University Press.
 
-Download [Preprint PDF](\files\Becoming_Theodore_Preprint.pdf)
+[Preprint PDF available for download.](\files\Becoming_Theodore_Preprint.pdf)
 
-# Public Writing
-## This Trans Couple Bought a House in the '90s. It Became a Home for Unhoused Youth
+## Public Writing
+### This Trans Couple Bought a House in the '90s. It Became a Home for Unhoused Youth
 
 Published in: _Teen Vogue_, 2025.
 

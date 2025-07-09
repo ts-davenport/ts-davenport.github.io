@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theodore Davenport"
+title                    : "Teddy Davenport"
 title_separator          : "-"
-name                     : &name "Theodore Davenport"
+name                     : &name "Teddy Davenport"
 description              : &description "Feminist Geographer"
 url                      : https://ts-davenport.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Theodore Davenport"
+  name             : "Teddy Davenport"
   avatar           : "teddy.jpg"
   bio              : "trans place-making | politics of community care | digital geography"
   location         : 
