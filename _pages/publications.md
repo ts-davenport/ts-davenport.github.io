@@ -22,7 +22,7 @@ Published in _Gender, Place & Culture_, 2025.
 
 This paper draws from work across care geographies and trans studies to challenge cisgender assumptions in care ethic scholarship and complicate the romanticization of care as a one-size-fits-all solution to trans injustice. I draw from 25 oral history interview transcripts from the New York City Trans Oral History Project and use a framework of uncomfortable care ethics to highlight how trans care practices are enmeshed with politics of gender normativity, trans survival, formal care abandonment, and compassion fatigue.
 
-Recommended Citation: Davenport, Theodore. 2025. "Uncomfortable Trans Care Politics: Normativity, Institutional Abandonment, and the Obligation to Care in New York City." _Gender, Place & Culture_. https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578.
+Recommended Citation: Davenport, Theodore. 2025. "Uncomfortable Trans Care Politics: Normativity, Institutional Abandonment, and the Obligation to Care in New York City." _Gender, Place & Culture_. [https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578](https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578).
 
 [**Now Available Open-Access!**](https://www.tandfonline.com/doi/full/10.1080/0966369X.2025.2477578)
 
@@ -43,4 +43,4 @@ Published in: _Teen Vogue_, 2025.
 
 Drawing from my archival research, this popular article explores the history of a housing collective owned by two trans women in NYC during the 1990s and 2000s.
 
-Recommended Citation: Davenport, Theodore. 2025. "This Trans Couple Bought a House in the '90s. It Became a Home for Unhoused Youth." _Teen Vogue_. Overlooked History Series. https://www.teenvogue.com/story/transy-house-overlooked-history
+Recommended Citation: Davenport, Theodore. 2025. "This Trans Couple Bought a House in the '90s. It Became a Home for Unhoused Youth." _Teen Vogue_. Overlooked History Series. [https://www.teenvogue.com/story/transy-house-overlooked-history](https://www.teenvogue.com/story/transy-house-overlooked-history)
